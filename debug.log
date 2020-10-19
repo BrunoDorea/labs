@@ -1,0 +1,17 @@
+[1018/002859.510:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1019/005132.583:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1019/005132.583:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1019/005132.584:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1019/005132.582:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1019/005132.584:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1019/005132.582:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1019/005132.585:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1019/005132.692:ERROR:exception_snapshot_win.cc(99)] thread ID 12896 not found in process
+[1019/005132.584:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1019/005132.692:ERROR:exception_snapshot_win.cc(99)] thread ID 5836 not found in process
+[1019/005132.692:ERROR:exception_snapshot_win.cc(99)] thread ID 5552 not found in process
+[1019/005132.692:ERROR:exception_snapshot_win.cc(99)] thread ID 10092 not found in process
+[1019/005132.692:ERROR:exception_snapshot_win.cc(99)] thread ID 6388 not found in process
+[1019/005132.692:ERROR:exception_snapshot_win.cc(99)] thread ID 10452 not found in process
+[1019/005132.692:ERROR:exception_snapshot_win.cc(99)] thread ID 2000 not found in process
+[1019/005132.692:ERROR:exception_snapshot_win.cc(99)] thread ID 9560 not found in process
